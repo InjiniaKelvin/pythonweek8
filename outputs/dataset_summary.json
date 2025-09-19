@@ -1,0 +1,26 @@
+{
+  "total_papers": 2000,
+  "date_range": {
+    "start": "2019-12-01T00:00:00",
+    "end": "2023-12-31T00:00:00"
+  },
+  "unique_journals": 16,
+  "top_journal": {
+    "name": "Virology",
+    "papers": 143
+  },
+  "sources": {
+    "bioRxiv": 419,
+    "Elsevier": 419,
+    "PMC": 401,
+    "medRxiv": 382,
+    "arXiv": 379
+  },
+  "yearly_distribution": {
+    "2019": 42,
+    "2020": 491,
+    "2021": 489,
+    "2022": 489,
+    "2023": 489
+  }
+}

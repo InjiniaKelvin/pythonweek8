@@ -1,0 +1,16 @@
+{
+  "total_papers": 1000,
+  "date_range": "2019-12-01 to 2024-01-31",
+  "unique_journals": 21,
+  "top_journal": "JAMA",
+  "peak_year": 2020,
+  "sources": [
+    "PMC",
+    "medRxiv",
+    "bioRxiv",
+    "Elsevier",
+    "arXiv"
+  ],
+  "generated_at": "2025-09-18T16:36:48.110423",
+  "sample_data": true
+}
